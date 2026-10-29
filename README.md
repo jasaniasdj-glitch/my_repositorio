@@ -47,8 +47,39 @@ Se realizó un análisis exploratorio utilizando Jupyter Notebook para:
 * Histograma
 * Muestra la distribución del kilometraje de los vehículos.
 
+## Visualizaciones incluidas
+La aplicación web incluye las siguientes visualizaciones interactivas:
+
+## Histograma
+Muestra la distribución del kilometraje (odometer) de los vehículos del conjunto de datos.
+
 ## Gráfico de dispersión
 Muestra la relación entre el precio y el kilometraje de los vehículos.
 
 ## Cómo ejecutar la aplicación
-Instalar las dependencias:
+1. Crear un entorno virtual:
+python -m venv vehicles_env
+2. Activar el entorno virtual:
+vehicles_env\Scripts\activate
+3. Instalar dependencias:
+pip install -r requirements.txt
+4. Ejecutar la aplicación:
+streamlit run app.py
+
+## Estructura del repositorio 
+my_repositorio
+│ 
+├── app.py 
+├── requirements.txt 
+├── vehicles_us.csv 
+├── EDA.ipynb 
+├── README.md 
+└── .gitignore
+
+## Aplicación desplegada
+La aplicación se encuentra disponible en:
+
+[https://TU-APP.onrender.com](https://my-repositorio.onrender.com)
+
+## Autor
+Araceli Jasania Sanchez
