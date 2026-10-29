@@ -78,8 +78,8 @@ my_repositorio
 
 ## Aplicación desplegada
 La aplicación se encuentra disponible en:
-
-https://github.com/jasaniasdj-glitch/my_repositorio/commit/5d6c346f30e65e210f9581ba28143c977b14f58f
+https://github.com/jasaniasdj-glitch/my_repositorio
+https://my-repositorio.onrender.com/
 
 ## Autor
 Araceli Jasania Sanchez
