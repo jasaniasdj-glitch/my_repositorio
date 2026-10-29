@@ -79,9 +79,7 @@ my_repositorio
 ## Aplicación desplegada
 La aplicación se encuentra disponible en:
 
-[https://TU-APP.onrender.com](https://my-repositorio.onrender.com)
-srv-dbft57a9lscs739fpmo0
-https://dashboard.render.com/web/srv-dbft57a9lscs739fpmo0/deploys
+https://github.com/jasaniasdj-glitch/my_repositorio/commit/5d6c346f30e65e210f9581ba28143c977b14f58f
 
 ## Autor
 Araceli Jasania Sanchez
